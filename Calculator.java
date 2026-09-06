@@ -9,7 +9,7 @@ class Calculator {
         double b = sc.nextDouble();
 
         System.out.println("Sum = " + (a + b));
-        System.out.println("Difference = " + (a - b));
+        System.out.println("Subtraction = " + (a - b));
         System.out.println("Product = " + (a * b));
         System.out.println("Division = " + (a / b));
     }
